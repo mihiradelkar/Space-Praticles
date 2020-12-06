@@ -1,5 +1,5 @@
 # Space-Praticles
- Space Background with Particles JS
+ Space Particles Background Theme Using Particles JS.
 
 A cool javascript background integrated with particles-js
 
